@@ -1,0 +1,1 @@
+{"version":3,"sources":["./src/styles.css"],"names":[],"mappings":"AAAA,8EAA8E;AAC9E;EACE,qBAAqB;AACvB","file":"styles.css","sourcesContent":["/* You can add global styles to this file, and also import other style files */\ninput.ng-invalid.ng-touched{\n  border: 2px solid red;\n}\n"],"sourceRoot":"webpack:///"}
